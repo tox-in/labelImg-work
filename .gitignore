@@ -1,0 +1,12 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+<<<<<<< HEAD
+*.png
+=======
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+>>>>>>> caab4db2830d3f375fab57074461fd47b032f809
